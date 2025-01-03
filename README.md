@@ -57,4 +57,3 @@ pandas: Data handling
 matplotlib: Data visualization
 numpy: Mathematical operations
 ipywidgets: Interactive widgets (optional)
- 
