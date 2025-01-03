@@ -17,7 +17,7 @@ Visualization: Provides detailed graphical representations of energy consumption
 ## Formulas Used
 ### Total Force: 𝐹 total = 𝐹 incline + 𝐹 rolling + 𝐹 aerodynamic 
  
-### Energy Consumption: 𝐸 = 𝐹 total ⋅ length / efficiency
+### Energy Consumption: 𝐸 = 𝐹 total X length / efficiency
 ​
 ## Requirements
 
@@ -33,3 +33,16 @@ matplotlib: Data visualization
 numpy: Mathematical operations
 
 ipywidgets: Interactive widgets (optional)
+
+## Usage
+
+Input: Track data and vehicle parameters.
+Output: Energy consumption by segment, total energy used, and graphical analysis.
+
+## Potential Applications
+
+Automotive Design: Optimizing vehicle efficiency for competitive events like Shell Eco-marathon.
+
+Educational Tools: Demonstrating real-world energy principles.
+
+Simulation Platforms: Extending the model to include additional dynamics.
