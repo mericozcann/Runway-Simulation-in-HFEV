@@ -17,7 +17,7 @@ Visualization: Provides detailed graphical representations of energy consumption
 ## Formulas Used
 ### Total Force: 𝐹 total = 𝐹 incline + 𝐹 rolling + 𝐹 aerodynamic 
  
-### Energy Consumption: 𝐸 = 𝐹 total ⋅ length efficiency E = efficiency F total ⋅length
+### Energy Consumption: 𝐸 = 𝐹 total ⋅ length / efficiency
 ​
 ## Requirements
 
@@ -25,7 +25,11 @@ Visualization: Provides detailed graphical representations of energy consumption
 Python 3.x
 
 ### Libraries:
+
 pandas: Data handling
+
 matplotlib: Data visualization
+
 numpy: Mathematical operations
+
 ipywidgets: Interactive widgets (optional)
