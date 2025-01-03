@@ -67,9 +67,9 @@ Görselleştirme: Enerji tüketimi eğilimlerini detaylı grafiklerle sunma.
 
 ## Kullanılan Formüller
 
-Toplam Kuvvet: 𝐹 toplam = 𝐹 eğim + 𝐹 yuvarlanma + 𝐹 aerodinamik
+### Toplam Kuvvet: 𝐹 toplam = 𝐹 eğim + 𝐹 yuvarlanma + 𝐹 aerodinamik
 
-Enerji Tüketimi: 𝐸 = 𝐹 toplam X uzunluk / verimlilik 
+### Enerji Tüketimi: 𝐸 = 𝐹 toplam X uzunluk / verimlilik 
  
 ## Gereksinimler
 ### Programlama Dili: 
